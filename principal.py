@@ -18,5 +18,3 @@ print(u1.getApellido())
 # print(u1.getCuil())
 # print(u1.getCarnetConducir())
 print(u1.getFechaNacimiento())
-
-ZAIR
